@@ -1,0 +1,1 @@
+This works with simple HTML and CSS. This is having a working API with which we can get the given movie information in the web console.
